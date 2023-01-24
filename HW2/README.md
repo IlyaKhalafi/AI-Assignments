@@ -16,7 +16,7 @@ All codes are available under `codes` directory. A* and Greedy Search solvers ar
 ### Results
 Finally `H3` had the best performance in terms of computation time and number of iterations. A chart of results is shown below:
 
-![Results](./images/Comparision%20Graph.png)
+![](./images/Comparision%20Graph.png)
 
 `H3` had better performance because intuitively it has encoded more data about final solution into the initial state.
 
