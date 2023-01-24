@@ -14,4 +14,4 @@ Total of 5 algorithms are used to solve this problem. They are:
 - SVM
 - KNeighbors
 
-Also I used implementation of above algorithms from `scikit-learn` library. All code and comparision details are available in `Human_Activity_Recognition_Using_Smartphones_Data_Set.ipynb` file.
+Also I used implementation of above algorithms from `scikit-learn` library. All codes and comparision details are available in `Human_Activity_Recognition_Using_Smartphones_Data_Set.ipynb` file.
