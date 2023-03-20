@@ -1,5 +1,5 @@
 # AI-Homeworks
-My answers to homeworks of AI course at Amirkabir University of Technology taught by Dr. Mehdi Ghatee and M.S. Rouhollah Ahmadian.
+My assignments for homeworks of AI course at Amirkabir University of Technology taught by Dr. Mehdi Ghatee and M.S. Rouhollah Ahmadian.
 
 Total of 7 homeworks were given in this course. Each homework has a different topic and I tried to solve all of them and I hope you find them useful. 
 
